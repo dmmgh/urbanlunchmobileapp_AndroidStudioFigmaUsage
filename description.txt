@@ -1,0 +1,3 @@
+Testing of Urban Lunch mobile app
+
+Urban Lunch mobile app, an Android app, allows customers to order meals from different restaurants in the city, and then collect them from one of the pickup points. This testing project contains the mobile app testing in the emulator (Android Studio) and creating bug reports in Jira, working with the app layouts in Figma
